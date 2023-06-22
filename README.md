@@ -13,7 +13,7 @@
 
 <br>
 
-Dicas e sugestões, são sempre bem vindas.
+Dicas e sugestões, são sempre bem-vindas.
 
 📫 Vamos conversar?
 
