@@ -1,11 +1,9 @@
-<div align="center">
-
 # Olá, meu nome é [Carlos Reis](https://www.linkedin.com/in/carlos-er7/)! 
 🕵️‍♂️  *Um cara muito curioso e apaixonado por tecnologia.*
-</div>
+
 
 ## Sobre
-<p align="justify">Olá! Atualmente estou buscando novas oportunidades no mercado de trabalho como <strong>Desenvolvedor Júnior</strong> (Full Stack ou Backend Java), utilizando a stack Angular e Spring. Meu objetivo é trabalhar em projetos desafiadores que me permitam aplicar minhas habilidades e aprender coisas novas.</p>
+<p align="justify">Atualmente estou buscando novas oportunidades no mercado de trabalho como <strong>Desenvolvedor Júnior</strong> (Full Stack ou Backend Java), utilizando a stack Angular e Spring. Meu objetivo é trabalhar em projetos desafiadores que me permitam aplicar minhas habilidades e aprender coisas novas.</p>
 
 <p align="justify">Para me preparar para essa nova etapa da minha carreira, estou dedicando meu tempo livre para estudar e aprimorar minhas habilidades em <b>Java, Spring, APIs REST e Angular</b>. Além disso, estou criando projetos pessoais para aplicar o que aprendi e desenvolver ainda mais minhas habilidades.</p>
 
