@@ -1,5 +1,5 @@
 <div align="center">
-    
+
 # Olá, meu nome é [Carlos Reis](https://www.linkedin.com/in/carlos-er7/)! 
 🕵️‍♂️  *Um cara muito curioso e apaixonado por tecnologia.*
 </div>
