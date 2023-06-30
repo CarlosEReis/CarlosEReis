@@ -58,7 +58,7 @@ Gostaria de citar dois cursos que estão sendo muito relevantes para o meu apren
 | Curso | Repositório | Instituição | Status | Certificado |
 | --- | --- | --- | --- | --- |
 | [Full Stack Angular, Spring *(120h)*](https://lp.algaworks.com/fsas-fs-pv/) | 🔧 🪛 🛠️ ⚙️ | [AlgaWorks](https://www.algaworks.com) | 🟢🟢🟢🟢🟢 &nbsp; &nbsp; \| &nbsp; &nbsp; ✅| [Visualizar](https://app.algaworks.com/certs/712PR5LP7J) |
-| [Especialista APIs REST *(120h)*](https://mergulhospring.com.br/esr-conteudo/) | 🔧 🪛 🛠️ ⚙️ | [AlgaWorks](https://www.algaworks.com) | 🟡⚪⚪⚪⚪ &nbsp; &nbsp; \| &nbsp; &nbsp; 👨‍💻 | Em breve |
+| [Especialista APIs REST *(280h)*](https://mergulhospring.com.br/esr-conteudo/) | 🔧 🪛 🛠️ ⚙️ | [AlgaWorks](https://www.algaworks.com) | 🟡⚪⚪⚪⚪ &nbsp; &nbsp; \| &nbsp; &nbsp; 👨‍💻 | Em breve |
 
 </div>
 
