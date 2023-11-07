@@ -37,6 +37,7 @@ Dicas e sugestões, são sempre bem-vindas.
     <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2022" target="_blank"><img title="SQL Serve" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></a>&nbsp
     <a href="https://www.mysql.com/" target="_blank"><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>&nbsp
     <a href="https://spring.io/" target="_blank"><img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>&nbsp
+    <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>&nbsp
     <a href="https://code.visualstudio.com/" target="_blank"><img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>&nbsp
     <a href="https://br.wordpress.org/" target="_blank"><img title="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/></a>&nbsp
     <a href="https://woocommerce.com/" target="_blank"><img title="WooCommerce" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="40" height="40"/></a>&nbsp
