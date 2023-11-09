@@ -20,6 +20,7 @@ Dicas e sugestões, são sempre bem-vindas.
 [![Linkedin Badge](https://img.shields.io/badge/-CarlosReis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulianabezerra/)](https://www.linkedin.com/in/carlos-er7/)<br>
 [![Gmail Badge](https://img.shields.io/badge/-carlos.er7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.er7@gmail.com)](mailto:carlos.er7@gmail.com?subject=Perfil&nbsp;GitHub!)
 
+
 <h3  align="center">Linguagens, frameworks, bancos e outros.</h3>
 <p align="center">Veja algumas das tecnologias no qual eu utilizo e já utilizei.</p>
 <p align="center">
@@ -45,6 +46,16 @@ Dicas e sugestões, são sempre bem-vindas.
     <a href="https://ubuntu.com/" target="_blank"><img title="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a>&nbsp
     <a href="https://www.microsoft.com/pt-br/software-download/ target="_blank"><img title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a>&nbsp
 </p>
+
+## Projetos
+
+<div align="center">
+
+| Nome | Descrição basica | Tipo | Status | 
+| --- | ---  | --- | --- |
+| [er7 - Chamados Técnicos](https://github.com/CarlosEReis/er7_assistencia-tecnica) | Sistema para o gerenciamento de chamados técnicos, com dashboard de indicadores.| Pessoal | 🟡 Em Andamento |
+</div>
+
 
 ## Cursos
 Gostaria de citar dois cursos que estão sendo muito relevantes para o meu aprendizado, um mais voltado sobre o desenvolvimento de aplicações Front End e outro mais específico sobre APIs REST. 
