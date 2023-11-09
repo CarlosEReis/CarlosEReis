@@ -54,6 +54,7 @@ Dicas e sugestões, são sempre bem-vindas.
 | Nome | Descrição basica | Tipo | Status | 
 | --- | ---  | --- | --- |
 | [er7 - Chamados Técnicos](https://github.com/CarlosEReis/er7_assistencia-tecnica) | Sistema para o gerenciamento de chamados técnicos, com dashboard de indicadores.| Pessoal | 🟡 Em Andamento |
+| [er7 - Lançamentos Financeiros](https://github.com/CarlosEReis/er7_lancamentos-financeiros) | Crud para registro de lançamentos financeiro do tipo receita e despesa.| Curso | 🟢 Concluído |
 </div>
 
 
